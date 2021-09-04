@@ -11,6 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //adds comment
+            //readline this
+            // readline that
+
+            //even another readline
         }
     }
 }
